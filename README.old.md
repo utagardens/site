@@ -1,2 +1,0 @@
-# site
-UTA Gardens website
